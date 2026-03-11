@@ -1,0 +1,9 @@
+execute as @p[tag=mayor] at @s if block ~~-1~ deny run tellraw @s {"rawtext":[{"text":"Uhm, Mayor? You shouldn't be needing this."}]}
+execute as @p[tag=!mayor, scores={money=..5}] at @s if block ~~-1~ deny run tellraw @s {"rawtext":[{"text":"Insufficient funds"}]}
+
+execute as @p[tag=!mayor, scores={money=5..},r=5] at @s if block ~~-1~ deny run tag @s add fermspieye
+execute as @p[tag=fermspieye] run scoreboard players add @p[tag=fermspieye] money -5
+execute as @p[tag=fermspieye] run scoreboard players add @e[tag=town] money 5
+give @p[tag=fermspieye] fermented_spider_eye 1 0
+execute as @p[tag=fermspieye] at @s run tellraw @s {"rawtext":[{"text":"You have purchaced: §6A Fermented Spider Eye!"}]}
+execute as @p[tag=fermspieye] at @s run tag @s remove fermspieye

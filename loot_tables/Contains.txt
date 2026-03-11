@@ -1,0 +1,130 @@
+The BaseBallCap - 25$
+==================
+1   x  leather helmet
+1   x  Wooden Sword
+16  x  Wind Charges
+
+The LumberMan - $15
+==================
+1   x  leather pants
+1   x  Wooden Axe
+3   x  Potion of Regeneration
+
+The Umpire - $35
+==================
+1   x  Leather helmet
+1   x  Leather Tunic
+1   x  Wooden Sword
+16  x  Wind Charges
+
+The HardHat - $65
+==================
+1   x  Chain helmet
+1   x  Leather Tunic
+1   x  Leather Boots
+1   x  Stone Sword
+32  x  Wind Charges
+2   x  Potion of Healing
+
+The RunAway - $70
+==================
+1   x  Leather helmet
+1   x  Leather pants
+1   x  Chain Boots
+32  x  Wind Charges
+1   x  Splash Potion of Speed
+1   x  Splash Potion of Weakness
+1   x  Splash Potion of Harming II
+
+The Upgrade - $45
+==================
+1   x  Chain helmet
+1   x  Leather Tunic
+1   x  Chain Leggings
+1   x  Leather Boots
+1   x  Stone Axe
+1   x  Potion of Strength
+16  x  Wind Charges
+
+The RougeKnight - $75
+==================
+1   x  Chain helmet
+1   x  Chain Chestplate
+1   x  Chain Leggings
+1   x  Gold Boots
+1   x  Shield
+1   x  Stone Axe
+16  x  Wind Charges
+
+The Prototype - $155
+==================
+1   x  Chain helmet
+1   x  Chain Chestplate
+1   x  Iron Leggings
+1   x  Chain Boots
+1   x  Crossbow
+5   x  Wither II Arrows
+10  x  Arrows
+
+The FeatherFoot - $165
+==================
+1   x  Iron Helmet
+1   x  Chain Chestplate
+1   x  Iron Leggings\
+1   x  Leather Boots [Feather Falling]
+1   x  Shield
+1   x  Iron Axe
+2   x  Golden Apple
+2   x  Potion of Regeneration II
+
+The Guardian - $210
+==================
+1   x  Iron Helmet
+1   x  Iron Chestplate
+1   x  Iron Leggings
+1   x  Gold Boots
+1   x  Iron Sword
+1   x  Shield
+3   x  Lingering Potion of Slowness
+
+The Ruben - $275
+==================
+1   x  Iron Helmet
+1   x  Iron Chestplate
+1   x  Iron Leggings
+1   x  Diamond Boots
+1   x  Shield
+1   x  Notch Apple
+
+The RobinHood
+==================
+1   x  Diamond Helmet
+1   x  Iron Chestplate
+1   x  Diamond Leggings 
+1   x  Diamond Boots
+1   x  Bow 
+12  x  Arrows
+8   x  Arrows [Weakness]
+
+The DualShock - $625
+==================
+1   x  Full Diamond Set
+1   x  Netherite Sword
+1   x  Netherite Axe
+1   x  Shield
+2   x  Splash Potion of Strength
+1   x  Potion of Strength
+64  x  Wind Charges
+
+The Pounder - $760
+==================
+1   x  Iron Helmet
+1   x  Diamond Chestplate
+1   x  Diamond Leggings
+1   x  Diamond Boots
+1   x  Mace
+1   x  Totem
+1   x  Shield
+32  x  Wind Charges
+
+

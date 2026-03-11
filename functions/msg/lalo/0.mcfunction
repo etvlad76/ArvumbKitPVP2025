@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"<Lalo> I-I cant tell you anything about that..."}]}
