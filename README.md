@@ -7,21 +7,21 @@ My old code has been left in but will be removed eventually. current commit was 
 ``` diff
 Changes have been made to the __init__, frank, and structures folder; as well as the tick.json file. 
 (color coded test, diff)
-  -player removed
-  -player_2 removed
-  -__init__/init_tp_rec was never made. all uses referencing it have been removed
-  +player_setup added
-    *starts to find an empty space to generate an island for new players.
-  +island_setup added
-    *generates an island for the player once an empty space has been found after running player_setup
-  !tp_init modified
-    *the "p_init" tag is now being unsused
-  +island initialization is now dependent on the player and two armor stands
-  +pointer_move added
-    *used to load chunks so that islands can properly spawn and generate island properties properly
-  +livestock folder added for future animal addition
-  !debug_reset has been modified. no longer resets the score of playerCount
-  !Updated Franklin NPC interactions have been made no match minigame needs
+  - player removed
+  - player_2 removed
+  - __init__/init_tp_rec was never made. all uses referencing it have been removed
+  + player_setup added
+    * starts to find an empty space to generate an island for new players.
+  + island_setup added
+    * generates an island for the player once an empty space has been found after running player_setup
+  ! tp_init modified
+    * the "p_init" tag is now being unsused
+  + island initialization is now dependent on the player and two armor stands
+  + pointer_move added
+    * used to load chunks so that islands can properly spawn and generate island properties properly
+  + livestock folder added for future animal addition
+  ! debug_reset has been modified. no longer resets the score of playerCount
+  ! Updated Franklin NPC interactions have been made no match minigame needs
 
 ```
 
