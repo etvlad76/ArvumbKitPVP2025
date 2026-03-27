@@ -1,6 +1,7 @@
 {
 	"values": [
 		"crops/thecrops",
-		"tickertimer"
+		"tickertimer",
+		"__init__/tp_init"
 	]
 }
